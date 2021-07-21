@@ -1,13 +1,13 @@
 {
-  "name": "website-jeffery-john",
+  "name": "website-saba-merchant",
   "description": "A portfolio website",
-  "homepage": "https://jefferyajohn.com",
+  "homepage": "https://sabamerchant.github.io/home",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Jeffery John",
-    "email": "jefferyjohn2000@gmail.com",
-    "url": "https://github.com/jefferyjohn"
+    "name": "Saba Merchant",
+    "email": "sabavmerchant@gmail.com",
+    "url": "https://github.com/sabamerchant"
   },
   "dependencies": {
     "@microlink/react": "^5.2.2",
