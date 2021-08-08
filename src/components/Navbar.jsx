@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import Pdf from "../editable-stuff/resume.pdf";
+import Pdf from "../editable-stuff/sabaresume.pdf";
 import { showBlog, FirstName } from "../editable-stuff/configurations.json";
 
 const Navbar = (props) => {
@@ -52,14 +52,14 @@ const Navbar = (props) => {
               <b>Projects</b>
             </a>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <a
               className="nav-link lead"
               href={process.env.PUBLIC_URL + "/#media"}
             >
               <b>Media</b>
             </a>
-          </li>
+          </li> */}
           <li className="nav-item">
             <a
               className="nav-link lead"

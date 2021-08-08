@@ -5,7 +5,7 @@
   "FirstName": "Saba",
   "MiddleName": "",
   "LastName": "Merchant",
-  "devDesc": " | Programmer | Student | Maker | Hacker | Developer ",
+  "devDesc": " | Programmer | Student | Maker | Developer ",
   "icons": [
     {
       "id": 0,
@@ -31,7 +31,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "saba_merchant123",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Hi! My name is Saba Merchant. I am a 3rd year student at the University of Georgia studying Computer Science.",
+  "aboutDescription": "Hi! My name is Saba Merchant. I am a rising junior at The University of Georgia studying Computer Science. Over the past few years, I have worked as the Public Relations and Vice President for the Association of Computing Machinery (ACM), Corporate Outreach Chair for the ACM-W Girls.Code() chapter, a Sponsorship Member for UGAHacks 7, and on the Software Team for the Small Satellite Research Lab. These positions have increased my attention to detail, time management, and organizational skills, which are three abilities that will help me to succeed. Outside of school, my passions include mental health, mentoring, and female empowerment.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "sabamerchant",
@@ -39,7 +39,7 @@
   "projectsLength": 4,
   "mediaHeading": "Featured Media",
   "contactHeading": "Contact Me",
-  "contactDescription": "Please don't hesitate to schedule a meeting through Calendly. This will create an event on my calendar, as well as send an invitation for the platform of your choice to both of us. Alternatively, feel free to reach out directly by email ",
+  "contactDescription": "Please don't hesitate to schedule a meeting through email. Once again, my email is sabavmerchant@gmail.com. Alternatively, my school email is svm21714@uga.edu",
   "showNavigationbar": true,
   "showBlog": false
 }
