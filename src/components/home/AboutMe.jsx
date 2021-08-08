@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import Pdf from "../../editable-stuff/sabaResume.pdf";
+import Pdf from "../../editable-stuff/sabaresume.pdf";
 import {
   aboutHeading,
   aboutDescription,
